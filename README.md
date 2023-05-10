@@ -1,8 +1,7 @@
 ### 👋 I'm Belén
 
-🔭 I’m currently working on **Lorem Impsum Gym**
+🔭 Here you can find generics websites used for CODERHOUSE courses. 
 
-It's a generic gym website, created for CODERHOUSE Web Design course, commission nº 33130 
 
 <!--
 **mbbujan/mbbujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
